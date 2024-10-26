@@ -1,0 +1,9 @@
+2024-10-25 20:15:00,159 - INFO - START NSP_OEC_Training_Chapter_25 =============================================
+2024-10-25 20:15:00,159 - INFO - START NSP_OEC_Training_Chapter_25 Start Time = 2024-10-25 20:15:00
+2024-10-25 20:15:00,160 - INFO - NSP_OEC_Training_Chapter_25 Step 0 - Initialize the configuration file parser
+2024-10-25 20:15:00,160 - INFO - Process NSP_OEC_Training_Chapter_25 Step 0 - Initializing and starting Logging Process.
+2024-10-25 20:15:00,204 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_25 The total process duration was:0.05
+2024-10-25 20:15:00,205 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_25 Stop Time = 2024-10-25 20:15:00
+2024-10-25 20:15:00,206 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_25 Short process duration less than 3 Seconds:0.05
+2024-10-25 20:15:00,206 - INFO - PERFORMANCE NSP_OEC_Training_Chapter_25 Performance optimization is not reccomended
+2024-10-25 20:15:00,206 - INFO - END NSP_OEC_Training_Chapter_25 =============================================

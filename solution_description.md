@@ -1,13 +1,4 @@
-![Image image_filename](solution_sign.png)
-    
-# Nsp Oec Training Chapter 25 
 
-## National Ski Patrol - Outdoor Emergency Care chapter 25
-
-    
-![Solution](code.png)
-
-    
 
 ## Chapter 25: Cold-Related Emergencies
 
@@ -181,30 +172,3 @@ Emergency care for an avalanche victim requires prompt action to address critica
 
 Proper and gentle handling, continuous rewarming, and prompt CPR can greatly improve the chances of survival for avalanche victims. Rapid response is crucial, as time is of the essence in preventing suffocation and severe hypothermia.
 
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 25** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](NSP_OEC_Training_Chapter_25.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
