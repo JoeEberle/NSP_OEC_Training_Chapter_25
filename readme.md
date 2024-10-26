@@ -199,7 +199,7 @@ To get started with the **Nsp Oec Training Chapter 25** solution repository, fol
 4. Run the notebook and make it your own - **EASY !**
     
 ## List of Figures
- ![additional_image](NSP_OEC_Training_Chapter_25.png)  <br>
+ ![additional_image](frostbite.png)  <br>![additional_image](NSP_OEC_Training_Chapter_25.png)  <br>
     
 
 ## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
