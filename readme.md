@@ -44,7 +44,7 @@ The wind chill index measures how cold it feels on exposed skin when the wind is
 
 The two types of hypothermia are **acute** and **chronic hypothermia**:
 
-1. **Acute Hypothermia**: Occurs when the body temperature drops rapidly over a short period, often due to sudden exposure to cold water or extreme cold weather. The body doesnâ€™t have enough time to adjust, leading to a quick loss of heat.
+1. **Acute Hypothermia**: Occurs when the body temperature drops rapidly over a short period, often due to sudden exposure to cold water or extreme cold weather. The body doesn’t have enough time to adjust, leading to a quick loss of heat.
 
 2. **Chronic Hypothermia**: Develops gradually over a longer period, usually due to prolonged exposure to cold environments, such as staying in a cold, unheated home. It can be more common in vulnerable populations, such as the elderly, and often results from lower, sustained heat loss.
 
@@ -52,7 +52,7 @@ The two types of hypothermia are **acute** and **chronic hypothermia**:
 
 ## 25.4 Define afterdrop.
 
-**Afterdrop** is a phenomenon where the bodyâ€™s core temperature continues to drop even after a person has been removed from a cold environment and rewarming has begun. This occurs because cold blood from the extremities returns to the core, mixing with the warmer blood and lowering the core temperature further. It can be dangerous and complicates the treatment of hypothermia.
+**Afterdrop** is a phenomenon where the body’s core temperature continues to drop even after a person has been removed from a cold environment and rewarming has begun. This occurs because cold blood from the extremities returns to the core, mixing with the warmer blood and lowering the core temperature further. It can be dangerous and complicates the treatment of hypothermia.
 
 
 ## 25.5 Describe the assessment of a patient with cold injuries.  
@@ -69,7 +69,7 @@ Assessing a patient with cold injuries involves a systematic approach to determi
    - **Circulation**: Check the pulse; it may be **weak, slow, or irregular** in hypothermic patients. Address any signs of **shock** or severe hypothermia immediately.
 
 ### 3. **Vital Signs Monitoring**
-   - **Temperature**: Measure the core body temperature, if possible, using a low-reading thermometer. Note if the patientâ€™s temperature is **below 35Â°C (95Â°F)**, which indicates hypothermia.
+   - **Temperature**: Measure the core body temperature, if possible, using a low-reading thermometer. Note if the patient’s temperature is **below 35°C (95°F)**, which indicates hypothermia.
    - **Heart Rate and Blood Pressure**: Expect a **slow heart rate** and possibly low blood pressure. Monitor continuously, as hypothermic patients are at risk of cardiac arrhythmias.
 
 ### 4. **Skin Assessment**
@@ -96,9 +96,9 @@ Proper assessment is crucial for identifying the type and severity of cold injur
 
 ## 25.6 Describe the four categories of cold exposure.
 
-1. **Mild Hypothermia**: Body temperature drops to **32-35Â°C (90-95Â°F)**, causing shivering, cold extremities, and mild confusion.  
-2. **Moderate Hypothermia**: Core temperature is **28-32Â°C (82-90Â°F)**, leading to intense shivering, slurred speech, and reduced coordination.  
-3. **Severe Hypothermia**: Temperature falls **below 28Â°C (82Â°F)**, with symptoms including loss of shivering, unconsciousness, and a dangerously slow heart rate.  
+1. **Mild Hypothermia**: Body temperature drops to **32-35°C (90-95°F)**, causing shivering, cold extremities, and mild confusion.  
+2. **Moderate Hypothermia**: Core temperature is **28-32°C (82-90°F)**, leading to intense shivering, slurred speech, and reduced coordination.  
+3. **Severe Hypothermia**: Temperature falls **below 28°C (82°F)**, with symptoms including loss of shivering, unconsciousness, and a dangerously slow heart rate.  
 4. **Frostbite**: Localized tissue freezing that results in **hard, pale, numb** skin, which can progress to tissue damage if not properly treated.
 
 ## 25.7 Demonstrate the management of a patient with cold injuries. 
@@ -121,7 +121,7 @@ Managing a patient with cold injuries requires a systematic approach to safely r
 
 ### 4. **Management of Frostbite**
    - **Do Not Rub or Massage** the affected areas, as this can cause further tissue damage.
-   - **Warm the Frostbitten Area** using **warm water (37-39Â°C or 98-102Â°F)** for 15-30 minutes until the skin becomes soft and pink. Avoid dry heat, such as heating pads or fires.
+   - **Warm the Frostbitten Area** using **warm water (37-39°C or 98-102°F)** for 15-30 minutes until the skin becomes soft and pink. Avoid dry heat, such as heating pads or fires.
    - **Protect Blisters**: If blisters are present, **do not burst them**. Lightly bandage the area to prevent infection and tissue damage.
 
 ### 5. **Monitor and Support Vital Signs**
@@ -149,7 +149,7 @@ Emergency care for an avalanche victim requires prompt action to address critica
    - **Locate the Victim**: Use **avalanche beacons, probes, and visual clues** to locate the victim quickly. Speed is essential, as suffocation is a major concern within the first 15 minutes.
 
 ### 2. **Initial Assessment (ABCs)**
-   - **Airway**: Clear snow from the victimâ€™s mouth and nose to ensure a clear airway. Be prepared to begin **mouth-to-mouth resuscitation** if they are not breathing.
+   - **Airway**: Clear snow from the victim’s mouth and nose to ensure a clear airway. Be prepared to begin **mouth-to-mouth resuscitation** if they are not breathing.
    - **Breathing**: Assess for breathing by looking, listening, and feeling. If there is no breathing, start **rescue breaths** and **CPR** if necessary.
    - **Circulation**: Check for a pulse. If no pulse is detected, begin **CPR** immediately and continue until emergency help arrives or the victim is revived.
 
@@ -164,7 +164,7 @@ Emergency care for an avalanche victim requires prompt action to address critica
    - **Oral Fluids**: If the victim is awake and can swallow, offer **warm, sweet, non-caffeinated liquids** to help increase core temperature.
 
 ### 5. **Ongoing Monitoring and Emergency Care**
-   - **Monitor Vital Signs**: Continuously monitor the victimâ€™s **breathing, heart rate, and level of consciousness**. Be alert for any signs of shock or respiratory distress.
+   - **Monitor Vital Signs**: Continuously monitor the victim’s **breathing, heart rate, and level of consciousness**. Be alert for any signs of shock or respiratory distress.
    - **Check for Trauma**: Look for **visible injuries**, such as fractures, cuts, or bruises, and immobilize any suspected spinal or limb injuries to prevent further damage.
    - **Prepare for Transport**: Arrange for **emergency transport** as soon as possible. Continue monitoring and warming efforts during transport, and keep the victim as **still and warm** as possible.
 
@@ -187,24 +187,4 @@ Proper and gentle handling, continuous rewarming, and prompt CPR can greatly imp
     
 ![Solution](code.png)
 
-    
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Nsp Oec Training Chapter 25** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
-## List of Figures
- ![additional_image](frostbite.png)  <br>![additional_image](NSP_OEC_Training_Chapter_25.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
     
